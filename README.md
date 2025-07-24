@@ -1,12 +1,12 @@
 # Personality Assistant 🧠
 
-This is a simple Gradio app that suggests personalized responses based on emotional cues (personalized for one individual)
+This is a simple Gradio app that suggests personalized responses based on emotional cues (keywords)
 
 ## Live App
-Try it on [Hugging Face Spaces](https://huggingface.co/spaces/Din7/emotion-support-app)
+Try it on Hugging Face:  [Hugging Face Spaces](https://huggingface.co/spaces/Din7/emotion-support-app)
 
 ## Features
-- Detects emotional cues using sentence-transformers
-- Matches emotions to helpful phrases and actions
-- Gradio-powered interactive UI
-
+- Detects emotional keywords in natural text
+- Suggests helpful responses and actions
+- Simple and intuitive UI using Gradio
+- Auto-logs interactions (locally)
