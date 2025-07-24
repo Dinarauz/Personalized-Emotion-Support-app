@@ -1,0 +1,5 @@
+gradio
+pandas
+sentence-transformers
+torch
+openpyxl
