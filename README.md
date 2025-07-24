@@ -1,6 +1,3 @@
-# personalized-emotion-support-app
-A Gradio-based emotion assistant for personalized responses
-
 # Personality Assistant 🧠
 
 This is a simple Gradio app that suggests personalized responses based on emotional cues (personalized for one individual)
