@@ -1,6 +1,6 @@
 # Emotional Support Assistant 🧠
 
-This is a simple Gradio app that suggests personalized responses based on emotional cues (keywords)
+This is a simple Gradio app that suggests personalized responses based on emotional cues (keywords). The app is live, though it’s still being improved. If the exact emotion keyword isn’t in the dataset, you can type just the keyword (instead of a full sentence), and the AI will still try to match it
 
 ## Live App
 Try it on Hugging Face:  [Hugging Face Spaces](https://huggingface.co/spaces/Din7/emotion-support-app)
