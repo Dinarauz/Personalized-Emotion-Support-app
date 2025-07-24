@@ -1,4 +1,4 @@
-# Personality Assistant 🧠
+# Emotional Support Assistant 🧠
 
 This is a simple Gradio app that suggests personalized responses based on emotional cues (keywords)
 
